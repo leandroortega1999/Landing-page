@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+    padding: 10px;
+    margin-bottom: 300px;
+    background-color: #1F2937;
+
+}
+.header-logo{
+    display: flex;
+    margin-left: 20px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+.header-links{
+    display: flex;
+    justify-content: space-between;
+
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-title{
+    font-weight: bolder;
+    font-size: 48px;
+    color: #f9faf8;
+}
+.hero-subtitle{
+
+    font-size: 18px;
+    color: #e5e7eb;
+}
